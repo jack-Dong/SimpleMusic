@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>listlogo.png</file>
+        <file>pre.png</file>
+        <file>pause.png</file>
+        <file>next.png</file>
+        <file>volume.png</file>
+        <file>single.png</file>
+        <file>search.png</file>
+        <file>random.png</file>
+        <file>play.png</file>
+    </qresource>
+</RCC>
